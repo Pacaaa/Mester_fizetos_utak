@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mester_FIzetos_utak", "Mester_FIzetos_utak\Mester_FIzetos_utak.csproj", "{EC4AD360-7EB2-4627-877E-26B4A87B8595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4AD360-7EB2-4627-877E-26B4A87B8595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4AD360-7EB2-4627-877E-26B4A87B8595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4AD360-7EB2-4627-877E-26B4A87B8595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4AD360-7EB2-4627-877E-26B4A87B8595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {614C4D3E-2117-497D-A44F-E5ACF6FA85DB}
+	EndGlobalSection
+EndGlobal

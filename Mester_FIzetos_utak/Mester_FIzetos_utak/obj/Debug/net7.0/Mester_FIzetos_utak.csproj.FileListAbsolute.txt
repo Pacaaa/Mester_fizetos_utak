@@ -1,0 +1,14 @@
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/bin/Debug/net7.0/Mester_FIzetos_utak
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/bin/Debug/net7.0/Mester_FIzetos_utak.deps.json
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/bin/Debug/net7.0/Mester_FIzetos_utak.runtimeconfig.json
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/bin/Debug/net7.0/Mester_FIzetos_utak.dll
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/bin/Debug/net7.0/Mester_FIzetos_utak.pdb
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/obj/Debug/net7.0/Mester_FIzetos_utak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/obj/Debug/net7.0/Mester_FIzetos_utak.AssemblyInfoInputs.cache
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/obj/Debug/net7.0/Mester_FIzetos_utak.AssemblyInfo.cs
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/obj/Debug/net7.0/Mester_FIzetos_utak.csproj.CoreCompileInputs.cache
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/obj/Debug/net7.0/Mester_FIzetos_utak.dll
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/obj/Debug/net7.0/refint/Mester_FIzetos_utak.dll
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/obj/Debug/net7.0/Mester_FIzetos_utak.pdb
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/obj/Debug/net7.0/Mester_FIzetos_utak.genruntimeconfig.cache
+/Users/dampatrik/Desktop/Suli/Informatika/Mester_FIzetos_utak/Mester_FIzetos_utak/obj/Debug/net7.0/ref/Mester_FIzetos_utak.dll
